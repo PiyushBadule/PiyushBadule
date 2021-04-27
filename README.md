@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @PiyushBadule
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email piyu.badule30@gmail.com
-
-<!---
-PiyushBadule/PiyushBadule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Info](https://user-images.githubusercontent.com/73275216/116186705-cda83d80-a741-11eb-80f9-eef9c1a60ba5.PNG)
