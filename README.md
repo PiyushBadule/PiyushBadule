@@ -9,9 +9,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBadule&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
- <br>
+ 
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/PiyushBadule/count.svg?align=center)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PiyushBadule)  
  
  
