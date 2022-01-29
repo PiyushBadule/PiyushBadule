@@ -23,6 +23,6 @@
          
 ---
  <br>
- <a href="https://github.com/PiyushBadule/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/bed736f95a3d5ac57ad0c378b72845becb53e63e0de00d947974442877243f8c/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7269746932343039267468656d653d72656163742d6461726b" alt="riti's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&amp;theme=react-dark" style="max-width: 100%;"></a>
+ <a href="https://github.com/PiyushBadule/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark" alt="Piyush Badule github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&amp;theme=react-dark" style="max-width: 100%;"></a>
   
 ---
