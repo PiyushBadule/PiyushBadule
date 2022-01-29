@@ -23,6 +23,6 @@
          
 ---
  <br>
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
+[![piyush's github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
   
 ---
