@@ -23,7 +23,7 @@
          
 ---
  <br>
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
+[(https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
   
 ---
   </code>
