@@ -11,9 +11,9 @@
  ---
  
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/PiyushBadule/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/PiyushBadule/count.svg?align=center)<br>
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PiyushBadule)  
- 
+ <br>
  
  <hr>
  <br>
