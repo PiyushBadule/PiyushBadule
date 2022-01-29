@@ -9,20 +9,20 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBadule&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
- 
+ <br>
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
  ![Github stats](https://github-readme-stats.vercel.app/api?username=PiyushBadule)  
  
  
  <hr>
- 
+ <br>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PiyushBadule&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 ---
- 
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
+ <br>
+[![piyush's github activity graph](https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark)](https://github.com/PiyushBadule/github-readme-activity-graph)
   
 ---
   </code>
