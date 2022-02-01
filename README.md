@@ -23,6 +23,6 @@
          
 ---
  <br>
- <a href="https://github.com/PiyushBadule/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark" alt="Piyush Badule github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&amp;theme=react-dark" style="max-width: 100%;"></a>
+ <a><img src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark" alt="Piyush Badule github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&amp;theme=react-dark" style="max-width: 100%;"></a>
   
 ---
