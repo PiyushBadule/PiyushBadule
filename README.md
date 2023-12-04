@@ -23,6 +23,5 @@
          
 ---
  <br>
-<a style="pointer-events: none"><img style="pointer-events: none" src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&theme=react-dark" alt="Piyush Badule github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=PiyushBadule&amp;theme=react-dark" style="max-width: 100%;"></a>
   
 ---
