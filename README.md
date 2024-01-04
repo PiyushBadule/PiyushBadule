@@ -39,13 +39,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin: 5px; box-shadow: 2px 2px 5px grey;"/>
 </p>
 
-
 <!-- GitHub Metrics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushBadule&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushBadule&show_icons=true&theme=blue-green&include_all_commits=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBadule&layout=compact&theme=blue-green" alt="Top Languages"/>
 </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/PiyushBadule" alt="Piyush Badule's GitHub Contributions" />
+</p>
+
 
 <!-- Connecting -->
 <h2 align="center">🌐 Connect with Me</h2>
