@@ -38,8 +38,8 @@
 <!-- GitHub Metrics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushBadule"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBadule&layout=compact&theme=blue-green" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushBadule&ring=DD2727&fire=DD2727&sideLabels=333333&dates=333333&text=333333"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushBadule&layout=compact&theme=vue&bg_color=ffffff" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://ghchart.rshah.org/PiyushBadule" alt="GitHub Contributions"/>
