@@ -63,7 +63,7 @@
 - ### 🐍 [Python Codes](https://github.com/PiyushBadule/Python_Codes)
   > A repository dedicated to Python scripts and projects. From small scripts to larger projects, a testament to the journey with Python programming.
 
-- ### 🎲 [FizzBuzz REST API](https://github.com/PiyushBadule/fizzbuzz_restapi)
+- ### 🎲 [FizzBuzz REST API](https://github.com/PiyushBadule/fizzbuzz_rest_server)
   > A modern twist on the classic FizzBuzz challenge. This project showcases a RESTful API built using Flask, integrating HTML, CSS, and SQLite. Experience how traditional coding challenges can be transformed into interactive web applications.
 
 
