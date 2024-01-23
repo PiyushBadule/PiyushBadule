@@ -51,11 +51,11 @@
 
 ## 📌 Pinned Repositories
 
+- ### 🎲 [FizzBuzz REST API](https://github.com/PiyushBadule/fizzbuzz_rest_server)
+  > A modern twist on the classic FizzBuzz challenge. This project showcases a RESTful API built using Flask, integrating HTML, CSS, and SQLite. Experience how traditional coding challenges can be transformed into interactive web applications.
+
 - ### 🚀 [Data Engineering ETL](https://github.com/PiyushBadule/data_engineering_etl)
   > Dive into ETL processes and data pipeline creation. A comprehensive repository showcasing my skills in data extraction, transformation, and loading techniques.
-
-- ### 🧩 [Python DataStructure](https://github.com/PiyushBadule/Python_DataStructure)
-  > Explore implementations and experiments with various data structures in Python. A playground for understanding the intricacies and applications of data structures.
 
 - ### 💻 [Coding Challenge](https://github.com/PiyushBadule/coding_challenge)
   > Challenge coding skills! This repository contains a collection of coding problems and solutions, showcasing problem-solving skills and algorithmic thinking.
@@ -63,9 +63,8 @@
 - ### 🐍 [Python Codes](https://github.com/PiyushBadule/Python_Codes)
   > A repository dedicated to Python scripts and projects. From small scripts to larger projects, a testament to the journey with Python programming.
 
-- ### 🎲 [FizzBuzz REST API](https://github.com/PiyushBadule/fizzbuzz_rest_server)
-  > A modern twist on the classic FizzBuzz challenge. This project showcases a RESTful API built using Flask, integrating HTML, CSS, and SQLite. Experience how traditional coding challenges can be transformed into interactive web applications.
-
+- ### 🧩 [Python DataStructure](https://github.com/PiyushBadule/Python_DataStructure)
+  > Explore implementations and experiments with various data structures in Python. A playground for understanding the intricacies and applications of data structures.
 
 <!-- Spacer -->
 <p>&nbsp;</p>
