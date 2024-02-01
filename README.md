@@ -72,9 +72,10 @@
 <!-- CV -->
 <div align="center">
     <h2>📄 CV</h2>
-    <a href="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf">View CV</a>
+    <a href="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf">
+        <img src="https://img.shields.io/badge/View_CV-Blue?style=for-the-badge&logoColor=white&color=007ACC" alt="View CV">
+    </a>
 </div>
-
 
 <!-- Spacer -->
 <p>&nbsp;</p>
