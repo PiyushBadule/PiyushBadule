@@ -69,6 +69,15 @@
 <!-- Spacer -->
 <p>&nbsp;</p>
 
+<!-- CV -->
+<div align="center">
+    <h2>📄 CV</h2>
+    <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf" width="100%" height="600px"></iframe>
+</div>
+
+<!-- Spacer -->
+<p>&nbsp;</p>
+
 <!-- Connecting -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
