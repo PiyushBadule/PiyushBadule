@@ -72,8 +72,9 @@
 <!-- CV -->
 <div align="center">
     <h2>📄 CV</h2>
-    <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf" width="100%" height="600px"></iframe>
+    <a href="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf">View CV</a>
 </div>
+
 
 <!-- Spacer -->
 <p>&nbsp;</p>
