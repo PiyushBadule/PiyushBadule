@@ -1,4 +1,3 @@
-<h2 align="center"><img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/AWS-Developer-Associate.png" alt="AWS Developer Associate Certificate "width="150"></h1>
 <h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1> 
 <h3 align="center">🚀 Delivering Innovative Software Solutions for Over 4+ Years 🚀</h3>
 
@@ -30,8 +29,6 @@
   <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-007ACD?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 <!-- Spacer -->
@@ -67,17 +64,6 @@
 
 - ### 🧩 [Python DataStructure](https://github.com/PiyushBadule/Python_DataStructure)
   > Explore implementations and experiments with various data structures in Python. A playground for understanding the intricacies and applications of data structures.
-
-<!-- Spacer -->
-<p>&nbsp;</p>
-
-<!-- CV -->
-<div align="center">
-    <h2>📄 CV</h2>
-    <a href="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/PiyushBadule_Resume.pdf">
-        <img src="https://img.shields.io/badge/View_CV-Blue?style=for-the-badge&logoColor=white&color=007ACC" alt="View CV">
-    </a>
-</div>
 
 <!-- Spacer -->
 <p>&nbsp;</p>
