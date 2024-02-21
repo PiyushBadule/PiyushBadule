@@ -1,9 +1,10 @@
-<h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1>
+<h2 align="center"><img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/AWS-Developer-Associate.png" alt="AWS Developer Associate Certificate "width="150"></h1>
+<h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1> 
 <h3 align="center">🚀 Delivering Innovative Software Solutions for Over 4+ Years 🚀</h3>
 
 <!-- Introduction -->
 <p align="center">
-  Welcome! I am <strong>Piyush Badule</strong>, a dedicated Software Developer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with user-centric experience.
+  Welcome! I am <strong>Piyush Badule</strong>, a dedicated Software Developer & AWS Certified Developer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with user-centric experience.
 </p>
 
 <!-- R&R Award -->
@@ -22,7 +23,7 @@
 <h2 align="center">🛠️ Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-355E3B?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-007ACD?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 <!-- Spacer -->
