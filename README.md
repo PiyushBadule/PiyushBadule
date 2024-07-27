@@ -81,11 +81,15 @@ Welcome! I am Piyush Badule, a dedicated Software Developer and AWS Certified De
 <!-- Connecting -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-badule/" style="display: inline-block; margin: 10px; transform: scale(1); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border: 2px solid transparent; border-radius: 5px; transition: border-color 0.3s, transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.borderColor='#0077B5';" onmouseout="this.style.transform='scale(1)'; this.style.borderColor='transparent';"/>
+  <a href="https://www.linkedin.com/in/piyush-badule/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" alt="LinkedIn" />
   </a>
-  <a href="mailto:piyu.badule30@gmail.com" style="display: inline-block; margin: 10px; transform: scale(1); transition: transform 0.3s;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border: 2px solid transparent; border-radius: 5px; transition: border-color 0.3s, transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.borderColor='#D14836';" onmouseout="this.style.transform='scale(1)'; this.style.borderColor='transparent';"/>
+  <a href="https://www.instagram.com/piyu__b/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" alt="Instagram" />
+  </a>
+  <a href="mailto:piyu.badule30@gmail.com" target="_blank">
+  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/gmail.gif" width="55px" alt="Gmail" style="border-radius: -10%;" />
+</a>
   </a>
 </p>
 
