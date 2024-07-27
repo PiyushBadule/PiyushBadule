@@ -1,10 +1,14 @@
-<h1 align="center"><img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/AWS-Developer-Associate.png" alt="AWS Developer Associate Certificate "width="150"></h1>
+<div align="center">
+  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
+  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
+</div>
+
 <h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1> 
-<h3 align="center">🚀 Delivering Innovative Software Solutions for Over 4+ Years 🚀</h3>
+<h3 align="center">🚀 Delivering Innovative Software Solutions for Over 5 Years 🚀</h3>
 
 <!-- Introduction -->
 <p align="center">
-  Welcome! I am <strong>Piyush Badule</strong>, a dedicated Software Developer & AWS Certified Developer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with user-centric experience.
+Welcome! I am Piyush Badule, a dedicated Software Developer and AWS Certified Developer as well as an AWS Certified Data Engineer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with a user-centric experience.
 </p>
 
 <!-- R&R Award -->
@@ -13,7 +17,7 @@
   <img src="https://img.shields.io/badge/🌟-R%26R%20Excellence%20Award-2088FF?style=for-the-badge&logo=medal&logoColor=white"/>
 </p>
 <p align="center">
-  <em>"Honored with the R&R Excellence Award for outstanding performance and lasting contribution to the T-Systems team. This accolade is a testament to my commitment to innovation and excellence in software development."</em>
+  <em>"Honored with the R&R Excellence Award twice for outstanding performance and lasting contributions to the T-Systems team. These accolades are a testament to my commitment to innovation and excellence in software development."</em>
 </p>
 
 <!-- Spacer -->
@@ -24,6 +28,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-355E3B?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -72,9 +81,14 @@
 <!-- Connecting -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-badule/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:piyu.badule30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush-badule/" style="display: inline-block; margin: 10px; transform: scale(1); transition: transform 0.3s;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border: 2px solid transparent; border-radius: 5px; transition: border-color 0.3s, transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.borderColor='#0077B5';" onmouseout="this.style.transform='scale(1)'; this.style.borderColor='transparent';"/>
+  </a>
+  <a href="mailto:piyu.badule30@gmail.com" style="display: inline-block; margin: 10px; transform: scale(1); transition: transform 0.3s;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border: 2px solid transparent; border-radius: 5px; transition: border-color 0.3s, transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.borderColor='#D14836';" onmouseout="this.style.transform='scale(1)'; this.style.borderColor='transparent';"/>
+  </a>
 </p>
+
 
 <!-- Spacer -->
 <p>&nbsp;</p>
