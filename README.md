@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
-  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
-</div>
-
 <h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1> 
 <h3 align="center">🚀 Delivering Innovative Software Solutions for Over 5 Years 🚀</h3>
 
@@ -10,6 +5,11 @@
 <p align="center">
 Welcome! I am Piyush Badule, a dedicated Software Developer and AWS Certified Developer as well as an AWS Certified Data Engineer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with a user-centric experience.
 </p>
+
+<div align="center">
+  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
+  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
+</div>
 
 <!-- R&R Award -->
 <h2 align="center">🏆 Notable Achievements</h2>
