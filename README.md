@@ -17,7 +17,7 @@ Welcome! I am Piyush Badule, a dedicated Software Developer and AWS Certified De
   <img src="https://img.shields.io/badge/🌟-R%26R%20Excellence%20Award-2088FF?style=for-the-badge&logo=medal&logoColor=white"/>
 </p>
 <p align="center">
-  <em>"Honored with the R&R Excellence Award twice for outstanding performance and lasting contributions to the T-Systems team. These accolades are a testament to my commitment to innovation and excellence in software development."</em>
+  <em>"Honored with the R&R Excellence Award thrice for outstanding performance and lasting contributions to the T-Systems team. These accolades are a testament to my commitment to innovation and excellence in software development."</em>
 </p>
 
 <!-- Spacer -->
