@@ -6,14 +6,16 @@
 
 I am <strong>Piyush Badule</strong>, a passionate <strong>Data Engineer</strong>, <strong>AZURE & AWS Certified Data Engineer</strong>, and <strong>AWS Certified Developer</strong>, currently working at <strong>T-Systems ICT India Pvt. Ltd.</strong>, Pune.  
 
----
+<!-- Spacer -->
+<p>&nbsp;</p>
 
 ## 🔍 About Me  
 - 🔧 **Skilled in:** Architecting and implementing **scalable data pipelines**, **ETL workflows**, and cloud-native data solutions.  
 - 🌐 **Expertise in:** Leveraging **Azure** and **AWS services**, including **Azure Data Factory**, **Azure Data Lake**, **Cosmos DB**, **Databricks**, **Lambda**, **Glue**, **S3**, and **Redshift**.  
 - 📊 **Specialized in:** Transforming data into actionable insights for data-driven decision-making and optimizing storage solutions.
 
----
+<!-- Spacer -->
+<p>&nbsp;</p>
 
 ## 💡 Core Expertise  
 - 🛠 **Data Engineering Tools & Frameworks:**  
@@ -28,13 +30,16 @@ I am <strong>Piyush Badule</strong>, a passionate <strong>Data Engineer</strong>
   - Automating workflows with **Python**, **Airflow**, and **Terraform**.  
   - Expertise in **data transformation**, **visualization**, and **analysis**. 
 
----
+<!-- Spacer -->
+<p>&nbsp;</p>
 
 ## 🚀 My Goals  
 I am dedicated to advancing in cutting-edge **Data Engineering technologies**, solving complex data challenges, and driving impactful innovations in data processing and management.
 
----
 </p>
+
+<!-- Spacer -->
+<p>&nbsp;</p>
 
 ## 📜 Certifications  
 <div align="center">
@@ -42,6 +47,9 @@ I am dedicated to advancing in cutting-edge **Data Engineering technologies**, s
   <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
   <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
 </div>
+
+<!-- Spacer -->
+<p>&nbsp;</p>
 
 <!-- R&R Award -->
 <h2 align="center">🏆 Notable Achievements</h2>
