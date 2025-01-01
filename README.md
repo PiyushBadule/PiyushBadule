@@ -27,7 +27,7 @@ I am <strong>Piyush Badule</strong>, a passionate <strong>Data Engineer</strong>
 - 🏗️ **Key Skills:**  
   - Building **real-time and batch data pipelines**.  
   - Architecting robust **data warehousing**, **data lakes**, and **delta lakes**.  
-  - Automating workflows with **Python**, **Airflow**, and **Terraform**.  
+  - Automating workflows with **Python**, **Airflow**.  
   - Expertise in **data transformation**, **visualization**, and **analysis**. 
 
 <!-- Spacer -->
