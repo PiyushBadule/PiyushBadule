@@ -130,7 +130,7 @@ I am dedicated to advancing in cutting-edge **Data Engineering technologies**, s
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" alt="Instagram" />
   </a>
   <a href="mailto:piyu.badule30@gmail.com" target="_blank">
-  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/gmail.gif" width="55px" alt="Gmail" style="border-radius: -10%;" />
+  <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/email.gif" width="55px" alt="Gmail"  style="border-radius: -10%;"/>
 </a>
   </a>
 </p>
