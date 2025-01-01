@@ -1,14 +1,46 @@
-<h1 align="center">🌟 Piyush Badule - Software Developer 🌟</h1> 
-<h3 align="center">🚀 Delivering Innovative Software Solutions for Over 5 Years 🚀</h3>
+<h1 align="center">🌟 Piyush Badule - Data Engineer 🌟</h1> 
+<h3 align="center">🚀 Crafting Scalable Data Solutions with Expertise in Cloud Technologies 🚀</h3>
 
 <!-- Introduction -->
 <p align="center">
-Welcome! I am Piyush Badule, a dedicated Software Developer and AWS Certified Developer as well as an AWS Certified Data Engineer at T-Systems ICT India Pvt. Ltd. in Pune. My expertise lies in designing innovative software solutions that blend functionality with a user-centric experience.
+
+I am <strong>Piyush Badule</strong>, a passionate <strong>Data Engineer</strong>, <strong>AZURE & AWS Certified Data Engineer</strong>, and <strong>AWS Certified Developer</strong>, currently working at <strong>T-Systems ICT India Pvt. Ltd.</strong>, Pune.  
+
+---
+
+## 🔍 About Me  
+- 🔧 **Skilled in:** Architecting and implementing **scalable data pipelines**, **ETL workflows**, and cloud-native data solutions.  
+- 🌐 **Expertise in:** Leveraging **Azure** and **AWS services**, including **Azure Data Factory**, **Azure Data Lake**, **Cosmos DB**, **Databricks**, **Lambda**, **Glue**, **S3**, and **Redshift**.  
+- 📊 **Specialized in:** Transforming data into actionable insights for data-driven decision-making and optimizing storage solutions.
+
+---
+
+## 💡 Core Expertise  
+- 🛠 **Data Engineering Tools & Frameworks:**  
+  - Databricks, PySpark, Airflow, Docker, and SQL.  
+  - Delta Lake solutions for handling batch and streaming data.  
+- 🌐 **Cloud Technologies:**  
+  - **Azure:** Blob Storage, Cosmos DB, Data Lake Storage, Data Factory.  
+  - **AWS:** Lambda, Glue, S3, Redshift, RDS, Athena.  
+- 🏗️ **Key Skills:**  
+  - Building **real-time and batch data pipelines**.  
+  - Architecting robust **data warehousing**, **data lakes**, and **delta lakes**.  
+  - Automating workflows with **Python**, **Airflow**, and **Terraform**.  
+  - Expertise in **data transformation**, **visualization**, and **analysis**. 
+
+---
+
+## 🚀 My Goals  
+I am dedicated to advancing in cutting-edge **Data Engineering technologies**, solving complex data challenges, and driving impactful innovations in data processing and management.
+
+---
 </p>
 
+## 📜 Certifications  
 <div align="center">
-  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
-  <img src="https://myresumepiyushbadule.s3.us-west-2.amazonaws.com/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
+  <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/AZ_DE.png" alt="AZURE Data Engineer Certificate" width="150">
+  <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/aws_data_engineer.png" alt="AWS Data Engineer Certificate" width="150">
+  <img src="https://github.com/PiyushBadule/PiyushBadule/blob/main/aws_developer.png" alt="AWS Developer Associate Certificate" width="150">
 </div>
 
 <!-- R&R Award -->
